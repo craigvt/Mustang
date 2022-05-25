@@ -1,0 +1,34 @@
+
+-------------------------
+ASSET SIZES
+--------------------------
+
+smallest integer size:
+
+native_w = 180
+native_h = 320
+tile_size = 30
+
+---------------------------
+
+base integer size:
+
+native_w = 360
+native_h = 640
+tile_size = 60
+
+---------------------------
+
+large integer size:
+
+native_w = 720
+native_h = 1280
+tile_size = 120
+
+-----------------------------
+
+max integer size
+
+native_w = 1440
+native_h = 2560
+tile_size = 240
